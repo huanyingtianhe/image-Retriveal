@@ -1,0 +1,7 @@
+数据集采用的是small文件夹下的图片，取自于pkuFlower图片集
+提取函数是travelFolders，该函数参数说明：
+%输入参数：queryImagePath：查询文件路径
+%queryNum：返回相似图片的个数
+%dirName:训练集路径
+%mode:查询模式 1，HSV直方图特征 2，颜色相关图 3，颜色矩 4，小波变换 5，综合
+%rows,cloumns最后输出图片的行数和列数
